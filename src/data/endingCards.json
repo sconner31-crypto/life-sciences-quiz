@@ -1,0 +1,61 @@
+[
+  {
+    "id": "msc-genetics",
+    "title": "MSc in Sustainable Agriculture and technologies",
+    "description": "TBC.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["genetics", "molecular"],
+    "threshold": 2,
+    "image": "/images/Taxonomy,-Biodiversity-and-Evolution.jpg"
+  },
+  {
+    "id": "msc-ecology",
+    "title": "MSc Taxonomy, Biodiversity and Evolution",
+    "description": "Study how taxonomy and systematics provide the foundation for our understanding of biological diversity on this Master's course. Based primarily at the Natural History Museum, this programme will equip you with the quantitative and analytical skills required for a career in biodiversity research. This includes the chance to explore a range of computing, morphological and molecular techniques.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["ecology"],
+    "threshold": 2,
+    "image": "/images/Taxonomy,-Biodiversity-and-Evolution.jpg"
+  },
+  {
+    "id": "msc-neuroscience",
+    "title": "Masters in Computational Methods in Ecology and Evolution (CMEE)",
+    "description": "This course is for students who wish to be trained in cutting-edge quantitative techniques in Ecology and Evolution with applications to wide range of real-world problems. This includes ecosystem-based solutions for industrial bioprocessing and production, improving food production in agroecosystems, nature-based carbon capture, and biodiversity conservation.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["neuro"],
+    "threshold": 1,
+    "image": "/images/Taxonomy,-Biodiversity-and-Evolution.jpg"
+  },
+  {
+    "id": "msc-neuroscience",
+    "title": "Masters in Ecology, Evolution & Conservation",
+    "description": "Deepen your understanding of key concepts in ecology, evolution and conservation on this interdisciplinary Master's course. You'll receive broad research training that examines fundamental concepts and theory, and their application to evolutionary ecology, conservation and biodiversity science. Based at Silwood Park – a centre of excellence for ecological research you'll explore a range of interdisciplinary topics guided by leading researchers in their field.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["neuro"],
+    "threshold": 1
+  },
+  {
+    "id": "msc-neuroscience",
+    "title": "MRes in Biosystematics",
+    "description": "Gain a broad perspective of taxonomy and systematics as well as relevant practical experience on this Master's course. Run jointly with the Natural History Museum, the programme will prepare you for further PhD study, or a future career in systematics research. You'll carry out two hands-on research projects at the Natural History Museum and Imperial under the supervision of acknowledged international experts at both institutions.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["neuro"],
+    "threshold": 1
+  },
+  {
+    "id": "msc-neuroscience",
+    "title": "MRes in Ecosystem and Environmental Change",
+    "description": "Gain high-level training in the latest developments in the conservation of ecosystems and the environment on this Master's course. You'll enhance your research skills on this cutting-edge interdisciplinary programme, which spans the physical, life and social sciences. This course will provide you with a solid theoretical grounding in ecosystems and environmental research, and equip you with skills and hands-on experience required for a career with real-world impact.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["neuro"],
+    "threshold": 1
+  },
+  {
+    "id": "msc-neuroscience",
+    "title": "MSc in Nature based Solutions",
+    "description": "TBC.",
+    "url": "https://www.imperial.ac.uk/study/courses/postgraduate-taught/taxonomy-biodiversity/",
+    "traits": ["neuro"],
+    "threshold": 1
+  }
+]

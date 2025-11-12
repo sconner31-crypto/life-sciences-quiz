@@ -1,0 +1,77 @@
+[
+  {
+    "id": "q1",
+    "text": "If you were to examine a tree, what would you focus on?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Its relationship with the surrounding environment", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "How to identify and classify it", "traits": ["ecology"] },
+      { "id": "a3", "text": "What it can be used for", "traits": ["neuro"] }
+    ]
+  },
+  {
+    "id": "q2",
+    "text": "Which of these following attributes would you say you possess?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Analytical and communication skills", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "Statistical and programming skills", "traits": ["ecology"] },
+      { "id": "a3", "text": "Investigative and quantitative skills", "traits": ["ecology"] },
+      { "id": "a4", "text": "Critical thinking and problem-solving skills", "traits": ["ecology"] }
+    ]
+  },
+  {
+    "id": "q3",
+    "text": "In the future where would you like to be based?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "In a lab exploring the physiology and behaviour of life", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "In a field collecting data", "traits": ["ecology"] },
+      { "id": "a3", "text": "Using data to predict future outcomes", "traits": ["ecology"] },
+      { "id": "a4", "text": "Consulting on how to manage and strategize", "traits": ["ecology"] }
+    ]
+  },
+  {
+    "id": "q4",
+    "text": "How would you like to help solve the planet's biological challenges?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Through practical work focusing on sustainable use and preservation", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "Through managing and interpreting ecological data", "traits": ["ecology"] }
+    ]
+  },
+  {
+    "id": "q5",
+    "text": "If thinking about studying ecology in general, what would you find the most interesting?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Knowledge of ecology and evolution through the lens of data science", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "Ways to achieve sustainable agriculture", "traits": ["ecology"] },
+      { "id": "a3", "text": "Deep ecology, evolution, and conservation knowledge", "traits": ["ecology"] },
+      { "id": "a4", "text": "Practical experience of a wide range of data science methods", "traits": ["ecology"] },
+      { "id": "a5", "text": "How to leverage nature to ensure its future and ours", "traits": ["ecology"] },
+      { "id": "a6", "text": "Taxonomy and systematics applied to understanding biological diversity", "traits": ["ecology"] }
+    ]
+  },
+  {
+    "id": "q6",
+    "text": "Which of these specialised subjects appeal to you the most?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Sustainable Agriculture", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "Biological Data Science / High Performance Computing", "traits": ["ecology"] },
+      { "id": "a3", "text": "Ecology, Evolution, and Conservation", "traits": ["ecology"] },
+      { "id": "a4", "text": "Global Change and Policy", "traits": ["ecology"] },
+      { "id": "a5", "text": "Nature based Solutions for biodiversity and climate change", "traits": ["ecology"] }
+    ]
+  },
+  {
+    "id": "q7",
+    "text": "What would you most like to do after finishing your master's degree?",
+    "isMultipleChoice": false,
+    "answers": [
+      { "id": "a1", "text": "Get a jump on my career and start working in my field right away", "traits": ["molecular", "genetics"] },
+      { "id": "a2", "text": "Continue my studies and ultimately get a PhD", "traits": ["ecology"] }
+    ]
+  }
+]
