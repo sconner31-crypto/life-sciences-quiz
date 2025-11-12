@@ -9,7 +9,8 @@ const Header: React.FC = () => {
         {/* Imperial Logo Row with transparency */}
         <div className="bg-imperialBlue/90 text-white backdrop-blur">
           <div className="flex items-center py-6 px-4">
-            <a href="/" aria-label="Imperial homepage" className="block">
+            {/* ✅ Use Link instead of <a href="/"> */}
+            <Link to="/" aria-label="Imperial homepage" className="block">
               <svg
                 width="180"
                 height="24"
@@ -28,7 +29,7 @@ const Header: React.FC = () => {
                 <path d="M151.908 0L132.747 47.04L113.587 0H92.0312V80H106.402V20.1882L124.764 62.4H140.731L159.093 20.1882V80H173.463V0H151.908Z" />
                 <path d="M0 0V14H18.7613V66H0V80H52.6912V66H33.93V14H52.6912V0H0Z" />
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
 
