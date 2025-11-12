@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/life-sciences-quiz/static/css/main.24060e2e.css",
-    "main.js": "/life-sciences-quiz/static/js/main.64bec1d8.js",
+    "main.js": "/life-sciences-quiz/static/js/main.310ceae5.js",
     "static/media/ImperialSansText-Regular.woff2": "/life-sciences-quiz/static/media/ImperialSansText-Regular.1a7ed5279ba532d00cfd.woff2",
     "index.html": "/life-sciences-quiz/index.html",
     "main.24060e2e.css.map": "/life-sciences-quiz/static/css/main.24060e2e.css.map",
-    "main.64bec1d8.js.map": "/life-sciences-quiz/static/js/main.64bec1d8.js.map"
+    "main.310ceae5.js.map": "/life-sciences-quiz/static/js/main.310ceae5.js.map"
   },
   "entrypoints": [
     "static/css/main.24060e2e.css",
-    "static/js/main.64bec1d8.js"
+    "static/js/main.310ceae5.js"
   ]
 }
